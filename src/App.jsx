@@ -17,9 +17,8 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#00488A', // Establece el color principal a #00488A
+      main: '#00488A',
     },
-    // Otros colores según sea necesario
   },
 });
 
